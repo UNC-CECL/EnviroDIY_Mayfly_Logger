@@ -13,6 +13,8 @@ library, either by: using the Arudino IDE from this menu utility:
 Skectch > Include Library > Manage Libraries...; or by
 directly obtaining the library from:
 https://github.com/SodaqMoja/Sodaq_DS3231
+
+* this marks a change by Katherine
 **************************************************************************/
 
 #include <Arduino.h>
