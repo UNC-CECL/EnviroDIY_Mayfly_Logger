@@ -1,8 +1,8 @@
 // This Mayfly sketch parses data from MaxSonar serial data and prints it on the serial monitor
 
-// To use this sketch, connect the MaxBotix serial data output pin (pin 5) to Mayfly pin D5.
-// Connect the MaxBotix power pin (pin 6) to the Vcc pin next to Mayfly pin D5.
-// Connect the MaxBotix power pin (pin 7) to the ground pin near Mayfly pin D5.
+// To use this sketch, connect the MaxBotix serial data output pin (pin 5) to Mayfly pin D5. (white)
+// Connect the MaxBotix power pin (pin 6) to the Vcc pin next to Mayfly pin D5. (red)
+// Connect the MaxBotix power pin (pin 7) to the ground pin near Mayfly pin D5. (black)
 // Set the jumper controlling power to pins D4-5 to be continuously powered.
 // Leave all other pins on the MaxBotix unconnected
 
